@@ -1,5 +1,0 @@
-Bugs
-
-Scrolling backgrounds behave weird when the image height is larger that the window height
-BackgroundObjects move faster than they should when their depth is set > ~0.1
-Player ship is big during the first frame
