@@ -10,6 +10,7 @@ import org.newdawn.slick.SlickException;
 
 public class ParallaxBackGround 
 {
+	//Something Else
 	ArrayList<BackgroundObject> list = new ArrayList<BackgroundObject>();
 	Scanner file;
 	

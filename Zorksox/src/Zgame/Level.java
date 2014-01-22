@@ -7,6 +7,7 @@ import org.newdawn.slick.SlickException;
 //temporary class.  just distributes enemies randomly.
 public class Level 
 {
+	//Something Else
 	static Random x = new Random();
 	static Random y = new Random();
 	
