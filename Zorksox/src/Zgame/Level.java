@@ -8,6 +8,7 @@ import org.newdawn.slick.SlickException;
 public class Level 
 {
 	//Something Else
+	//This is a bunch of random comment text
 	static Random x = new Random();
 	static Random y = new Random();
 	
