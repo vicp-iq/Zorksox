@@ -7,8 +7,6 @@ import org.newdawn.slick.SlickException;
 //temporary class.  just distributes enemies randomly.
 public class Level 
 {
-	//Something Else
-	//This is a bunch of random comment text
 	static Random x = new Random();
 	static Random y = new Random();
 	
@@ -20,7 +18,6 @@ public class Level
 			eShips.allEnemies.get(i).setGraphic("assets/enemy.png");
 		}
 	}
-	//A different comment change
 	
 	public static void level2(EnemyShips eShips) throws SlickException
 	{
